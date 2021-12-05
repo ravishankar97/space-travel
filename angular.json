@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "space-travel"
+  "defaultProject": "space-travel",
+  "cli": {
+    "analytics": false
+  }
 }
